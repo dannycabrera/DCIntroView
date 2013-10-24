@@ -1,7 +1,7 @@
 DCIntroView
 ===========
 
-DCIntroView is an easy to use introduction view for Xamarin.iOS apps. It's highly customizable where you can use your own views or simply use the supplied template.
+DCIntroView is an easy to use introduction view for Xamarin.iOS apps. It's highly customizable where you can use your own views or simply use the supplied template. Built for and tested on iOS 7.
 
 ![iPodSmall](Screenshots/iPod_small.png)&nbsp;
 ![View1](Screenshots/MonkeyView1_small.png)&nbsp;
