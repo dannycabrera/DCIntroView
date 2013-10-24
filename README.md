@@ -7,7 +7,7 @@ DCIntroView is an easy to use introduction view for Xamarin.iOS apps. It's highl
 ![View1](Screenshots/MonkeyView1_small.png)&nbsp;
 ![View2](Screenshots/MonkeyView2_small.png )
 
-How to use code
+Using the introduction view
 -------
 Build and add a reference to DCIntroView.dll in your project. You can also check out the Sample project in this repo.
 
