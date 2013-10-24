@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DCIntroView/TemplateView.cs">
+    <Files>
+      <File FileName="DCIntroView/TemplateView.cs" Line="14" Column="27" />
+      <File FileName="DCIntroView/IntroView.cs" Line="122" Column="4" />
+      <File FileName="DCIntroView.Sample/SampleViewController.cs" Line="65" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="DCIntroView" expanded="True">
+            <Node name="TemplateView.cs" selected="True" />
+          </Node>
+          <Node name="DCIntroView.Sample" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>cell</Value>
+          <Value>cell.ContentView.Subviews [0].Subviews[0].Tag</Value>
+          <Value>discussion.Root [0].Elements[obj.Row]</Value>
+        </State>
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
