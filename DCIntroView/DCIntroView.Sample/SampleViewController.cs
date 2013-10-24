@@ -41,7 +41,6 @@ namespace DCIntroView.Sample
 				_introView.ClearBackground = true;
 				_introView.SetSkipButtonTitleColor(UIColor.White);
 
-
 				// First view
 				_introView.AddViewToControllers(new TemplateView ("Xamarin Monkeys", "Here is my family picture.") {
 					Image = UIImage.FromFile("Images/monkeys.png"),
